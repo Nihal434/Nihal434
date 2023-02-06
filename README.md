@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [mp management](https://github.com/Nihal434/mp_management)
 
-- 🌱 I’m currently learning **React , my sql etc**
+- 🌱 I’m currently learning **Data Science**
 
 - 💬 Ask me about **html , css , js ,basic of c , python ,flutter**
 
