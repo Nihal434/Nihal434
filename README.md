@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/barhaiyyanihal" target="blank"><img src="https://img.shields.io/twitter/follow/barhaiyyanihal?logo=twitter&style=for-the-badge" alt="barhaiyyanihal" /></a> </p>
 
-- 🔭 I’m currently working on [mp management](https://github.com/Nihal434/mp_management)
+- 🔭 I’m currently working on [ML projects](https://github.com/Nihal434)
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **html , css , js ,basic of c , python ,flutter**
+- 💬 Ask me about **html, CSS, js, python, ML, Java, C#, DotNet**
 
 - 📫 How to reach me **nihalbarhaiyya@gmail.com**
 
